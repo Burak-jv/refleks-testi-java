@@ -1,1 +1,11 @@
 Burak - Ortalama: 399 ms | Skor: 375
+Burak - Ortalama: 426 ms | Skor: 350
+Ecrin - Ortalama: 354 ms | Skor: 375
+Seda - Ortalama: 342 ms | Skor: 400
+Burak - Ortalama: 323 ms | Skor: 400
+Seda - Ortalama: 351 ms | Skor: 375
+Burak - Ortalama: 317 ms | Skor: 375
+Burak - Ortalama: 279 ms | Skor: 425
+Burak - Ortalama: 553 ms | Skor: 325
+Burak - Ortalama: 601 ms | Skor: 275
+Burak - Ortalama: 612 ms | Skor: 2276
